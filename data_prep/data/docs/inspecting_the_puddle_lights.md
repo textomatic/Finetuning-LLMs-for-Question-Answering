@@ -1,0 +1,8 @@
+# Inspecting the Puddle Lights
+
+If the window in your vehicle is not properly working (or the glass does not lower slightly when the door opens), perform the Calibrating Windows test. If this does not solve the issue, try the following:
+1. A puddle light is located under each door frame. Ensure the puddle light is illuminated. If it’s not illuminated, schedule a service appointment through the mobile app. Although this procedure is for calibrating windows, if the puddle light is not illuminated, there may be a possible electrical issue also affecting the windows. If the light is illuminated, continue following these steps.
+2. Locate the tab on one side of the puddle light fixture. Use a plastic pry tool or flathead screwdriver to pry off the puddle light from the door frame.
+3. Gently pull the puddle light down to view its connection to the wiring harness—if the wire is securely connected to the light, unplug it by pressing the tab on the connector and slide the light fixture away from the harness. The harness may have become loose or slightly disconnected, so unplugging and re-plugging may help.
+4. Reconnect the light to the wiring harness and reinstall the puddle light fixture. When power is restored, the window should drop down slightly.
+5. Gently try to close the door, ensuring the window is slightly lowered before closing, and it raises once closed. If this doesn’t work, there may be an issue with the puddle light itself (which can be purchased online), or the wiring harness. Contact Tesla Service through the mobile app to schedule a service appointment.

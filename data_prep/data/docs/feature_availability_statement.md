@@ -1,0 +1,5 @@
+# Feature Availability Statement
+
+Your Tesla is constantly changing, with new features being added and improved upon with every software update. However, depending on the firmware release operating on your vehicle, your vehicle may not be equipped with all features or may not operate exactly as described in this Owner’s Manual. The features on your vehicle vary depending on market region, vehicle configuration, options purchased, software updates, and more.
+
+Referencing options or features mentioned in this Owner’s Manual does not guarantee they are available on your specific vehicle. The best way to ensure you are getting the latest and greatest features is update your vehicle’s software as soon as you receive the notification to do so. You can also set your preferences to Controls > Software > Software Preferences > Advanced. See Software Updates for more information. For the features available on your vehicle, always comply with local laws and limits to ensure the safety of you, your passengers, and those around you.
