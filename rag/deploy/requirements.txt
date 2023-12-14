@@ -1,0 +1,5 @@
+haystack-ai==2.0.0b2
+markdown-it-py==3.0.0
+mdit_plain==1.0.1
+sentence-transformers>=2.2.0
+streamlit==1.29.0

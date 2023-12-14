@@ -1,0 +1,17 @@
+# Charge Port Status Lights
+
+When your charge port is open the status light changes color to communicate its current state and help troubleshoot issues in the unlikely event that one comes up. As a reminder, the charge port light turns off after a short period of time if the vehicle is locked (for example, if you walk up to the car after it has been charging for a while).
+
+Note: When plugging your vehicle in, consider monitoring the color of the charge port before walking away. If you see a red or amber light, troubleshooting the issue before you leave can ensure a successful charging session.
+
+|Color of charge port light|What it means|What to do|
+|--------|--------|--------|
+|WHITE - SOLID <br><br>(normal behavior)|Model 3 is ready to charge and the connector is not inserted, or the charge port latch is unlocked and the connector is ready to be removed.|Insert the charge connector if you want to charge, or remove the charge connector if done charging.|
+|BLUE - BLINKING <br><br>(normal behavior)|Model 3 is actively communicating with the charging station.|Nothing. Wait a few seconds for the charge port to either begin blinking green (charging) or turn to solid blue (a charging session is scheduled for the future).|
+|BLUE - SOLID <br><br>(action may be required)|Model 3 detects that a connector has been plugged in and the charging session is scheduled to begin at a specified future time. Not actively charging.|If you want to charge immediately, disable Scheduled Charging or touch Start Charging on the touchscreen or in your mobile app. If the Scheduled Charging setting is intended, no further action is required. As a reminder, Scheduled Charging remembers your location.|
+|GREEN - BLINKING <br><br>(normal behavior)|Charging is in progress. As Model 3 approaches a full charge, the frequency of the blinking slows.|Nothing. Remove the charge cable when you are done charging.|
+|GREEN - SOLID <br><br>(normal behavior)|Charging is complete.|Remove the charge cable when you are ready to drive.|
+|AMBER - SOLID <br><br>(action required)|The connector is not fully plugged in to the charge port.|Realign the connector to the charge port and insert fully. If the issue persists, inspect the charge port and connector for obstructions. If no obstructions are found, try a different charge cable.|
+|AMBER - BLINKING <br><br>(action required)|Model 3 is charging at a reduced current because it is not fully plugged in to the charge port.|Realign the connector to the charge port and insert fully. If the issue persists, inspect the charge port and connector for obstructions. If no obstructions are found, try a different charge cable.|
+|RED - SOLID <br><br>(action required)|A fault is detected and charging has stopped or cannot begin.|Check the touchscreen for a fault message. If a fault is not present, try using a different charge cable or resetting the charging source (refer to the status lights on the Mobile Connector or Wall Connector if applicable). If a different charge cable does not work, turn the vehicle off and on using the touchscreen and try again.|
+|NO LIGHT <br><br>(normal behavior)|Model 3 is locked and has been sleeping for a period of time.|Nothing. Unlocking the vehicle or pressing the button on charge handle will cause the charge port status light to display again.|
